@@ -1,0 +1,14 @@
+*.o
+*.exe
+*.out
+*.class
+*.pyc
+*.pyo
+*.pyclass
+*.pyd
+*.pyo
+*.so
+*.swp
+*.zip
+*.pyc
+*.pyo
